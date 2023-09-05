@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.navbar {
+  background-color: crimson;
+  display: flex;
+}
+
+.nav-item {
+  padding: 15px;
+  font-size: 20px;
+  color: whitesmoke;
+  border: solid yellow;
+  border-radius: 5px;
+  margin: 3px;
+}
+
+.list {
+  background-color: pink;
+}
+
+.list-item {
+  font-size: 20px;
+  padding: 10px 20px;
+  border: solid snow;
+}
+
+.list-item a {
+  color: darkblue;
+}
+
+.detail {
+  background-color: pink;
+}
+
+.detail-item {
+  font-size: 20px;
+  padding: 10px 20px;
+  border: solid snow;
+}
+
+.new {
+  background-color: aquamarine;
+}
+
+.new-item {
+  padding: 10px;
+  font-size: 20px;
+}
